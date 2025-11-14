@@ -336,11 +336,8 @@ This project demonstrates:
 
 ## 📄 License
 
-ISC
-
-## 👤 Author
-
-**Ibrahim**
+👨‍💻 Developed by: Ibrahim Saudi
+📧 Contact: ibrahimstudent064@gmail.com
 
 ---
 
