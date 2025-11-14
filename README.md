@@ -320,9 +320,9 @@ after-section-14/
 - `npm run watch:js` - Watch and rebuild frontend JavaScript
 - `npm run debug` - Start server with Node debugger
 
-## 🎓 Learning Resources
+## 🎓 Project Highlights
 
-This project is part of the "Complete Node.js Bootcamp" course and demonstrates:
+This project demonstrates:
 - RESTful API design
 - MVC architecture pattern
 - Authentication and authorization
@@ -340,7 +340,7 @@ ISC
 
 ## 👤 Author
 
-**Jonas Schmedtmann**
+**Ibrahim**
 
 ---
 
