@@ -834,7 +834,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n\t\"name\": \"Jonas Schmedtmann\",\n\t\"role\": \"admin\"\n}"
+							"raw": "{\n\t\"name\": \"Ibrahim\",\n\t\"role\": \"admin\"\n}"
 						},
 						"url": {
 							"raw": "{{URL}}api/v1/users/updateMe",
@@ -914,7 +914,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n\t\"name\": \"Jonas\",\n    \"email\": \"jonas@mailsac.com\",\n\t\"password\": \"pass1234\",\n\t\"passwordConfirm\": \"pass1234\"\n}"
+							"raw": "{\n\t\"name\": \"Ibrahim\",\n    \"email\": \"ibrahim@example.com\",\n\t\"password\": \"pass1234\",\n\t\"passwordConfirm\": \"pass1234\"\n}"
 						},
 						"url": {
 							"raw": "{{URL}}api/v1/users/signup",
